@@ -4,7 +4,7 @@
 
 #### 预览地址
 
-  预览请点击[气象数据监测平台](http://47.94.136.182:8080/weather_Station_SSM_war),默认用户名为<font color="red">admin</font>,密码为<font color="red">123456</font>。
+预览请点击[气象数据监测平台](http://47.94.136.182:8080/weather_Station_SSM_war),默认用户名为<font color="red">admin</font>,密码为<font color="red">123456</font>。
 
 #### 项目简介
 
@@ -16,7 +16,7 @@
 
 ##### 工程导入
 
-​	下载项目之后使用idea导入maven工程，具体过程可参考[[IDEA教程之导入maven项目-百度经验](https://jingyan.baidu.com/article/cbf0e5007484db2eaa28933a.html)，也可自行百度。
+​	下载项目之后使用idea导入maven工程，具体过程可参考[IDEA教程之导入maven项目-百度经验](https://jingyan.baidu.com/article/cbf0e5007484db2eaa28933a.html)，也可自行百度。
 
 ##### 项目架构
 
@@ -25,17 +25,17 @@
 |-- out            			  
     |-- artifacts              war包导出路径
 |-- src                        
-	  |-- main
-		  |-- java                 java文件  
-		  |-- cn.njut
-		  	|-- controller    
-		  	|-- dao           
-		  	|-- domain
-		  	|-- server
-		  	|-- tcpclient
-		  |-- resources            资源文件
-	  	|-- webapp               网页文件
-|-- target			               编译文件
+	|-- main
+		|-- java              java文件  
+		|-- cn.njut
+			|-- controller    
+			|-- dao           
+			|-- domain
+			|-- server
+			|-- tcpclient
+		|-- resources         资源文件
+		|-- webapp            网页文件
+|-- target			          编译文件
 |-- weather_Station.sql        sql脚本文件
 |-- pom.xml                    maven仓库配置文件
 |-- External Libraries         依赖包
@@ -52,5 +52,3 @@
 ​	4、导入weather_Station.sql脚本文件；
 
 ​	5、部署开启tomcat运行即可
-
-
