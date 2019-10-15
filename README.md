@@ -52,3 +52,8 @@
 ​	4、导入weather_Station.sql脚本文件；
 
 ​	5、部署开启tomcat运行即可 
+##### 参考链接
+
+​	1、[SSM整合步骤]([https://jiaqinbi.github.io/2019/06/29/SSM%20Framework%20Integration%20Steps/](https://jiaqinbi.github.io/2019/06/29/SSM Framework Integration Steps/))
+
+​	2、[可视化技术]([https://jiaqinbi.github.io/2019/07/04/Data%20visualization%20technology%20HighCharts%20application%20development%20tutorial%20(a)%20--------%20download%20and%20install/](https://jiaqinbi.github.io/2019/07/04/Data visualization technology HighCharts application development tutorial (a) -------- download and install/))
